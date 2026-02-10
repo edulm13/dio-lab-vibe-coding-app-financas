@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App Finanças Refinado no Copilot
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -87,3 +87,176 @@ No README do seu repositório, inclua:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
+
+        Prompt final: "🎯 Objetivo do MVP
+Validar se usuários iniciantes conseguem:
+
+Registrar gastos com facilidade via conversa
+
+Entender melhor para onde o dinheiro está indo
+
+Sentir valor nas recomendações automáticas
+
+O MVP deve ensinar enquanto organiza, sem sobrecarregar.
+
+🧩 Principais Telas do MVP
+1. Tela de Conversa (Tela Principal)
+O coração do app.
+
+Funções
+
+Chat com o “Agente Financeiro”
+
+Registro de gastos em linguagem natural
+
+Exemplo: “Gastei 45 reais no mercado hoje”
+
+Confirmação automática da transação
+
+Perguntas simples quando houver dúvida
+
+Valor para o usuário
+
+Zero formulários
+
+Sensação de conversa, não de controle rígido
+
+2. Tela de Resumo Financeiro
+Visão rápida e amigável.
+
+Conteúdo
+
+Total gasto no mês
+
+Principais categorias
+
+Saldo estimado
+
+Comparação simples com o mês anterior
+
+Formato
+
+Cards visuais
+
+Linguagem simples (“Você gastou mais com alimentação este mês”)
+
+3. Tela de Metas Financeiras
+Foco em pequenos objetivos.
+
+Funcionalidades
+
+Criar metas simples
+
+Exemplo: “Economizar 300 reais este mês”
+
+Acompanhamento visual do progresso
+
+Alertas leves via chat
+
+4. Tela de Relatórios Simples
+Sem gráficos complexos.
+
+Relatórios
+
+Gastos por categoria
+
+Gastos por período
+
+Evolução mensal básica
+
+Diferencial
+
+Explicações em texto geradas pelo Agente
+
+“Seu maior gasto foi transporte, principalmente com aplicativos”
+
+⚙️ Recursos Necessários no MVP
+Inteligência Conversacional
+Interpretação de linguagem natural
+
+Extração de valor, data e descrição
+
+Classificação automática por categoria
+
+Motor de Regras Financeiras
+Sugestões básicas de economia
+
+Alertas de excesso de gastos
+
+Recomendações simples e educativas
+
+Base de Dados
+Usuário
+
+Transações
+
+Categorias
+
+Metas
+
+Personalização Inicial
+Perguntas rápidas no onboarding
+
+Renda aproximada
+
+Objetivo principal
+
+Estilo de controle (bem simples)
+
+🤖 Papel do “Agente Financeiro”
+Ele não julga, orienta.
+
+Tom
+
+Educativo
+
+Amigável
+
+Motivador
+
+Exemplos
+
+“Percebi que você gastou mais com delivery esta semana. Quer tentar reduzir um pouco?”
+
+“Você está perto da sua meta, continue assim”
+
+🧪 Esboço de Validação Inicial
+Público de Teste
+10 a 20 usuários iniciantes
+
+Pessoas que nunca usaram apps financeiros
+
+Métricas-Chave
+Quantidade de gastos registrados por semana
+
+Retenção após 7 dias
+
+Uso das metas
+
+Feedback qualitativo
+
+Perguntas de Validação
+Foi fácil registrar gastos?
+
+Você entendeu melhor seus gastos?
+
+O chat ajudou ou atrapalhou?
+
+O que mais gerou valor?
+
+🚀 Próximo Passo Natural
+Após validar o MVP:
+
+Melhorar entendimento da linguagem
+
+Introduzir insights mais inteligentes
+
+Explorar integração com bancos (fase futura)
+
+Se quiser, posso ajudar a transformar esse plano em fluxo de conversa, roteiro de onboarding ou até um mapa de funcionalidades por sprint."
+
+
+  - O que funcionou bem?  A i
+  - O que não funcionou como o esperado?  
+  - O que aprendeu sobre conversar com IAs?
